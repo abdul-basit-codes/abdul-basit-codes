@@ -2,7 +2,7 @@
 
 # Hi there, I'm Abdul Basit 👋
 
-🎓 CS Student at **NUTECH University**  
+🎓 CS Student at **BAHRIA University**  
 💡 Learning by building — one project at a time  
 🌱 Currently exploring **C++ OOP**, **Web Dev**, and **Flutter**
 
