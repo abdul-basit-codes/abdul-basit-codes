@@ -25,7 +25,7 @@ Hi there, I'm Abdul Basit 👋
 ## 📌 What I'm Working On
 
 - 🏨 **Hotel Management System** — C++ OOP project with UML design
-- 📐 **Calculus & Math** — Differentiation, limits, and beyond
+- 🏨 **Hiring Management System** — C++ OOP project with UML design and Flutter 
 - 🌐 **Web projects** — Practicing DOM, events, and clean UI
 
 ---
