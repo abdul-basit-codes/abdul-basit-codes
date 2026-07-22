@@ -36,9 +36,3 @@ Hi there, I'm Abdul Basit 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-basit-codes)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdul-basit-codes)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdul-basit-codes&style=flat-square&color=grey" alt="Profile views"/>
-</p>
